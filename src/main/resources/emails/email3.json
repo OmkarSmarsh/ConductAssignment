@@ -1,0 +1,8 @@
+{
+  "id": "email-1001",
+  "subject": "Urgent: Financial Report",
+  "sender": "admin@example.com",
+  "recipients": ["user2@example.com", "user3@example.com"],
+  //   "content": "financial mongodb"
+  "content": "Please review the latest financial report. The report includes details about bank account transactions and confidential data."
+}
