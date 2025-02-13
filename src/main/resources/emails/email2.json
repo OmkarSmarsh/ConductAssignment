@@ -3,5 +3,5 @@
   "subject": "Meeting Reminder",
   "sender": "hr@example.com",
   "recipients": ["user3@example.com"],
-  "content": "Reminder: Team meeting at 3 PM."
+  "content": "Reminder: Team meeting at 3 PM Confidential."
 }

@@ -2,6 +2,6 @@
   "id": "email-001",
   "subject": "Important Update",
   "sender": "admin@example.com",
-  "recipients": ["user1@example.com", "user2@example.com"],
-  "content": "Please review the latest changes."
+  "recipients": ["user1@example.com", "user3@example.com"],
+  "content": "GITHUB | Please review the latest confidential changes."
 }
